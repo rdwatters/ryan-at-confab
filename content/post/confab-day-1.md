@@ -108,6 +108,8 @@ Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/confab-
 * *Content Design* (Upcoming Book on Amazon)
 * ["What is Content Design"](http://storyneedle.com/what-is-content-design/)
 
+## Making Things Real: Content Strategy for Realistic Content Management
+
 
 
 
