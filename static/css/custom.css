@@ -1,3 +1,45 @@
-*,*:before,*:after, html {
-	font-family: 'Avenir Next','Avenir','Montserrat','Helvetica Neue',helvetica,arial,sans-serif!important;
+*,
+*:before,
+*:after,
+html {
+    font-family: 'Avenir Next', 'Avenir', 'Montserrat', 'Helvetica Neue', helvetica, arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Avenir Next', 'Avenir', 'Montserrat', 'Helvetica Neue', helvetica, arial, sans-serif;
+}
+
+.post-content h2 {
+    font-size: 1.9em;
+    margin-top: .75em;
+    margin-bottom: .75em;
+}
+
+.post-content h3 {
+    font-size: 1.7em;
+}
+
+.post-content h4 {
+    font-size: 1.4em;
+}
+
+nav#TableOfContents > ul {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+nav#TableOfContents > ul > li > ul {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+nav#TableOfContents > ul > li {
+    list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
 }

@@ -5,7 +5,7 @@ date: 2017-06-07
 publishdate: 2017-06-07
 tags: [confab, content strategy, eaton, workshop]
 attendees: []
-description: Notes from all-day workshop with Jeff Eaton at Confab Central 2017.
+description: All-day workshop with Jeff Eaton
 ---
 
 ## Introduction
@@ -32,9 +32,11 @@ Jorge Luis Borges, magical realist, about an empire that perfected cartography.
 *Maps show important things and not ALL the things.* A [tesseract](https://en.wikipedia.org/wiki/Tesseract) is more complicated than anything that's been represented by a single representation, but the single representation are important because they help us create a *mental model*.
 
 Not...
+
 > Which model is the real one?
 
 But instead...
+
 > Which angle are we looking at?
 
 > The purpose of content modeling is **shared understanding* and clear, **consistent answers** to content questions from **all teams**.

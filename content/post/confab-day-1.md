@@ -7,8 +7,7 @@ attendees: []
 description: Notes from multiple breakout sessions and the keynote event during day 1 of Confab 2017.
 ---
 
-
-## Structured Content Across the Redesign Process
+## Structured Content Across the Redesign Process (Breakout)
 
 [**Lisa Maria Martin, Independent IA/CS Consultant**](http://confabevents.com/events/central-2017/lisa-maria-martin)
 
@@ -60,7 +59,7 @@ Automated content analysis software out there. Some are more focused on URLs, so
 
 --------------------
 
-## Content Design: What It is and How to Do It
+## Content Design: What It is and How to Do It (Breakout)
 
 [**Meghan Casey, Lead Content Strategist, Brain Traffic**](http://confabevents.com/events/central-2017/meghan-casey)
 
@@ -108,7 +107,39 @@ Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/confab-
 * *Content Design* (Upcoming Book on Amazon)
 * ["What is Content Design"](http://storyneedle.com/what-is-content-design/)
 
-## Making Things Real: Content Strategy for Realistic Content Management
+## Making Things Real: Content Strategy for Realistic Content Management (Breakout)
+
+[**Corey Vilhauer, User Experience Architect, Blend Interactive**](http://confabevents.com/events/central-2017/corey-vilhauer)
+
+* Very often, content planning overlooks the importance of digging into the technical implementation of a CMS
+
+### The Expectations Barrier
+
+How do we balance rigidity of content model with creative flow of a creative team? Here's the bad news:
+
+> From Day 1, your dreams are already dead.
+
+### Content Management Systems
+
+* Content management systems are rigid by nature
+* People who develop content models can't come up with an understanding of what a content model is
+* What we need is "ubiquitous language," from Domain Driven Design
+    * Domain experts need things to be clear
+    * Developers need things to be accurate
+
+> We get so excited about new branding, visual design, and content, but we need to start focusing more on the technical pieces of implementation. Changing words is easy, but it's much more difficult to create new relationships within a content model.
+
+Often, teams are exhausted by the time branding and visual design conversations are nearing completion.
+
+> Everyone wants to think they are a beautiful and unique snowflake, but we don't work in an industry of beautiful and unique snowflakes; we work in an industry of standards. We focus too much on what *can* be done rather than what *should* be done. - Corey Vilhauer
+
+We no longer create content in the sense of a page. Instead, we are moving to a more component-based model. As a content chunk, components can be used once or multiple times across a site.
+
+There is a move from pages to components (e.g., Squarespace). High-frequency content does better with templates; low-frequency templates work better with a more modular approach.
+
+> Just as we make assumptions that other people have the same level of language understanding, developers assume that everyone has their same level of technical understanding. *NEVER LET YOUR DEVELOPERS CREATE CMS DOCUMENTATION FOR CMS USERS.*
+
+
 
 
 
