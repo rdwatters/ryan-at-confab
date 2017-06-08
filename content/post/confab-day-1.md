@@ -88,7 +88,6 @@ How to label and group content so that users can find it. There are tools you ca
 * 2. Relationship Model
     * Demonstrates relationships between content and other factors
 
-
 ### Key Concept: Content Wireframes
 
 Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/confab-workshop-eaton/#bonus-annotated-wireframes)):
