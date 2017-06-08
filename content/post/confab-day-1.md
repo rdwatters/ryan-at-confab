@@ -58,7 +58,7 @@ Automated content analysis software out there. Some are more focused on URLs, so
 * Microsoft Excel
     * "learn the magic of pivot tables"
 
-<hr>
+--------------------
 
 ## Content Design: What It is and How to Do It
 
@@ -99,6 +99,14 @@ Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/confab-
 > Taxonomy is the only way to auto-magically get content together and to define *relationships* between content.
 
 ### Structured Content
+
+> Structured content is what provides you with freedom.
+
+### Recommended Reading
+
+* *The Content Strategy Toolkit* by Meghan Casey
+* *Content Design* (Upcoming Book on Amazon)
+* ["What is Content Design"](http://storyneedle.com/what-is-content-design/)
 
 
 
