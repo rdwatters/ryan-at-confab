@@ -1,5 +1,5 @@
 ---
-title: Confab Day 1
+title: Day 1
 subtitle:
 date: 2017-06-08
 tags: [confab,content, content strategy, conference]
@@ -10,10 +10,6 @@ description: Notes from multiple breakout sessions and the opening keynote event
 ## Challenge Your Content Assumptions and Get a Free Puppy (Opening Keynote)
 
 [**Ann Handley, Chief Content Officer, MarketingProfs**](http://confabevents.com/events/central-2017/ann-handley)
-
-No notes to share other than:
-
-* Ann
 
 ## Structured Content Across the Redesign Process (Breakout)
 
