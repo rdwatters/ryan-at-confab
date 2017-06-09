@@ -5,7 +5,7 @@ date: 2017-06-07
 publishdate: 2017-06-07
 tags: [eaton, workshop]
 attendees: []
-description: Jeff Eaton of Lullabot held an all-day workshop on methods for taking a collaborative approach to content modeling and content strategy. Topics discussed included content modeling, entity-relationship models, annotated wireframes,
+description: Jeff Eaton of Lullabot held an all-day workshop on methods for taking a collaborative approach to content modeling and content strategy. Topics discussed included content modeling, entity-relationship models, annotated wireframes, data dictionaries, and user journey maps.
 ---
 
 ## Introduction
