@@ -70,6 +70,12 @@ hasCJKLanguage = false
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
 
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 [taxonomies]
 	tags = "tag"
 

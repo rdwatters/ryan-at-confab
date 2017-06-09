@@ -88,6 +88,8 @@ You have to go into someone's house and ask them, after years and years of hard 
 
 ### The Perfect Content Strategy
 
+The following is taken from <https://isitchristmas.com>:
+
 ![screenshot of isitchristmas.com](/images/is-it-christmas.png)
 
 ### Taking on Longer Projects
@@ -103,11 +105,11 @@ You have to go in and ask the critical questions:
 
 ### Content Principles
 
-Gives an organization
-
 1. Who are you?
 2. What do you value?
-3. What's important to you?
+3. What's important to you?   
+
+### Practical Advice
 
 1. Be consistent
 2. Be clear
@@ -121,6 +123,10 @@ When you have long content, look at patterns and components.
 What is your content is innately laden with low-frequency lexicon?
 
 * With FEC, Emileigh and other content strategists created a glossary of terms.
+
+### Things You Can Have Today
+
+* [18F Glossary Tool from 18F](https://github.com/18f/glossary)
 
 
 
