@@ -14,7 +14,7 @@ h6 {
 h1.blog-title.heading:before {
     content:'';
     display:inline-block;
-    margin-right:.15em;
+    margin-right:.02em;
     width:1.3em;
     height:1.3em;
     background-image: url(/images/confab.svg);
