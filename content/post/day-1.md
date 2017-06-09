@@ -4,7 +4,7 @@ subtitle:
 date: 2017-06-08
 tags: [structure, content design, content management]
 attendees: []
-description: The official Confab Central Conference starts with an opening keynote from Ann Handley, Chief Content Officer, MarketingProfs on the importance of challenging assumptions when approaching content. Topics of breakout sessions include structured content, content design, and realistic content management methodologies.
+description: The official Confab Central Conference starts with an opening keynote from Ann Handley, Chief Content Officer, MarketingProfs on the importance of challenging assumptions when approaching content. Breakout session topics included structured content, content design, and realistic approaches to content management strategy.
 ---
 
 ## Challenge Your Content Assumptions and Get a Free Puppy (Opening Keynote)
@@ -125,6 +125,12 @@ How do we balance rigidity of content model with creative flow of a creative tea
 
 > From Day 1, your dreams are already dead.
 
+#### COPE Sensibilities
+
+We all want to practice COPE approaches to content, and we all have ideas of how it can be implemented, but at the end of the day, it's extremely difficult to do *effectively*.
+
+![Joke schematic for a device that allows people to reuse toilet paper.](/images/reuse.jpg)
+
 ### Content Management Systems
 
 * Content management systems are rigid by nature
@@ -140,6 +146,11 @@ Often, teams are exhausted by the time branding and visual design conversations 
 We no longer create content in the sense of a page. Instead, we are moving to a more component-based model. As a content chunk, components can be used once or multiple times across a site.
 
 There is a move from pages to components (e.g., Squarespace). High-frequency content does better with templates; low-frequency templates work better with a more modular approach.
+
+### Further Reading
+
+* [Your CMS as Bad Cop, Gadgetopia](https://gadgetopia.com/post/7139)
+* [Why Content Projects Fail, Gadgetopia](https://gadgetopia.com/why-content-projects-fail)
 
 ## Favorite Quotes of the Day
 
