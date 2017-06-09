@@ -248,7 +248,7 @@ Questions to ask for data dictionaries:
 * Is there data in our existing content that conflicts with the requirements we've discovered or defined?
 * Does our content include data with unique storage or hosting requirements? (*YouTube video links vs. large local video files, product information stored in separate CMSs, etc.*)
 
-**Conf:** Our event content type also had a location attribute. Should that be its own content type?
+**Conf:** Our event content type also had a location attribute. Should that be its own content type? <br>
 **JE:** The answer is "it depends."
 
 ## User Journeys and User Journey Maps
@@ -274,9 +274,12 @@ Questions to ask for data dictionaries:
 
 > Collaboration uses everyone's work to make a better model.
 
+
 > Sometimes the distinction between "content type" and "taxonomy" are arbitrary.
 
+
 > Work in nonprofits has shown me there is this weird tension between the people that are actually interested in coming to the site and the donors or financial interests behind the site.
+
 
 > What we see in nonprofits and NGOs is that they really, really, really desperately want to organize their website according to their sponsors or the way the organization is structured internally.
 

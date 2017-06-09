@@ -46,3 +46,81 @@ If I can't change other people, what does that mean for how I teach people? Isn'
 People are getting better and better at focusing information on the user's needs and making things easier w/r/t content and information.
 
 > We are in the golden age of user experience.
+
+### URGENCY LIES!
+
+Urgency is the lie that tells us it's more important to just get something done than to do something well.
+
+* Repetition is critical
+* Say it again
+* Don't be afraid to repeat yourself
+* Say the same thing in different ways
+* Explain the same issue from a bunch of different angles
+
+### Training Advice
+
+If your team doesn't understand the benefits of using a new system, your training fails before it begins. Training is never easy.
+
+* Train new users on the content strategy to promote alignment
+* Be gracious, understanding, and gentle
+
+## Large-scale Content Projects: Advice, Tools, and Practical Strategies
+
+[**Emileigh Barnes, Content Lead, 18F**](http://confabevents.com/events/central-2017/emileigh-barnes)
+
+Emileigh's website: <http://www.emileighbarnes.com/>
+
+* User Experience Designer
+* Content Designer
+* Currently working on a huge content migration for the new [Federal Election Commission](https://www.fec.gov/)
+
+### Experiences with the FEC
+
+* Site started and grew as needed without any strategic considerations
+* People started publishing in a way that reflected internal divisions in the organization
+* Over 40k pages of existing content
+
+> If you put a frog in a pot of boiling water, it gets horrified and jumps out. If you put it in room temp water and slowly increase the heat, it allows itself to be boiled to death. There's a metaphor there for websites.
+
+### Change Management
+
+You have to go into someone's house and ask them, after years and years of hard work, to completely undo everything they've done on their site.
+
+### The Perfect Content Strategy
+
+![screenshot of isitchristmas.com](/images/is-it-christmas.png)
+
+### Taking on Longer Projects
+
+> It's very hard to do things right when you are designing by committee.
+
+You have to go in and ask the critical questions:
+
+1. Why did we create this content?
+2. What do we want this content to do?
+
+> The better you define the problem, the better the solution.
+
+### Content Principles
+
+Gives an organization
+
+1. Who are you?
+2. What do you value?
+3. What's important to you?
+
+1. Be consistent
+2. Be clear
+3. One piece of content = one place
+4. Be accurate
+
+Do your content inventory before you do your content audit. With the FEC site, there was no way to do a page-by-page content analysis.
+
+When you have long content, look at patterns and components.
+
+What is your content is innately laden with low-frequency lexicon?
+
+* With FEC, Emileigh and other content strategists created a glossary of terms.
+
+
+

@@ -1,3 +1,68 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-300-webfont.eot");
+    src: url("/fonts/avenir-300-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-300-webfont.woff2") format("woff2"), url("/fonts/avenir-300-webfont.woff") format("woff"), url("/fonts/avenir-300-webfont.ttf") format("truetype"), url("/fonts/avenir-300-webfont.svg") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-300-italic-webfont.eot");
+    src: url("/fonts/avenir-300-italic-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-300-italic-webfont.woff2") format("woff2"), url("/fonts/avenir-300-italic-webfont.woff") format("woff"), url("/fonts/avenir-300-italic-webfont.ttf") format("truetype"), url("/fonts/avenir-300-italic-webfont.svg") format("svg");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-400-webfont.eot");
+    src: url("/fonts/avenir-400-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-400-webfont.woff2") format("woff2"), url("/fonts/avenir-400-webfont.woff") format("woff"), url("/fonts/avenir-400-webfont.ttf") format("truetype"), url("/fonts/avenir-400-webfont.svg") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-400-italic-webfont.eot");
+    src: url("/fonts/avenir-400-italic-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-400-italic-webfont.woff2") format("woff2"), url("/fonts/avenir-400-italic-webfont.woff") format("woff"), url("/fonts/avenir-400-italic-webfont.ttf") format("truetype"), url("/fonts/avenir-400-italic-webfont.svg") format("svg");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-700-webfont.eot");
+    src: url("/fonts/avenir-700-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-700-webfont.woff2") format("woff2"), url("/fonts/avenir-700-webfont.woff") format("woff"), url("/fonts/avenir-700-webfont.ttf") format("truetype"), url("/fonts/avenir-700-webfont.svg") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-700-italic-webfont.eot");
+    src: url("/fonts/avenir-700-italic-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-700-italic-webfont.woff2") format("woff2"), url("/fonts/avenir-700-italic-webfont.woff") format("woff"), url("/fonts/avenir-700-italic-webfont.ttf") format("truetype"), url("/fonts/avenir-700-italic-webfont.svg") format("svg");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-800-webfont.eot");
+    src: url("/fonts/avenir-800-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-800-webfont.woff2") format("woff2"), url("/fonts/avenir-800-webfont.woff") format("woff"), url("/fonts/avenir-800-webfont.ttf") format("truetype"), url("/fonts/avenir-800-webfont.svg") format("svg");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url("/fonts/avenir-800-italic-webfont.eot");
+    src: url("/fonts/avenir-800-italic-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("/fonts/avenir-800-italic-webfont.woff2") format("woff2"), url("/fonts/avenir-800-italic-webfont.woff") format("woff"), url("/fonts/avenir-800-italic-webfont.ttf") format("truetype"), url("/fonts/avenir-800-italic-webfont.svg") format("svg");
+    font-weight: 800;
+    font-style: italic;
+}
+
+
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)

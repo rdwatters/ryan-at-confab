@@ -119,6 +119,8 @@ Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/confab-
 
 [**Corey Vilhauer, User Experience Architect, Blend Interactive**](http://confabevents.com/events/central-2017/corey-vilhauer)
 
+[Slides available early via Corey's site](http://www.eatingelephant.com/confab17/)
+
 * Very often, content planning overlooks the importance of digging into the technical implementation of a CMS
 
 ### The Expectations Barrier
