@@ -174,6 +174,8 @@ At LinkedIn, everyone was taught to "act like an owner"; this works well at star
 
 * Gone are the days of creating blog posts of 500 or fewer words
 * "Domain authority" is best guaranteed by creating really good quality content that will provide value for your readers well beyond the publish date.
+* Created 50+ blog posts last year
+    * Conf Question: how do you focus on strategy while still balancing time so that you can create your own content?
 
 ### Tools You Can Use
 

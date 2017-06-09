@@ -12,7 +12,7 @@ hasCJKLanguage = false
 [params]
 	name = "Ryan Watters, ELS"
 	author = "Ryan Watters, ELS"
-	description = "A few blog posts sharing my experience at Confab Central, 2017, in Minneapolis"
+	description = "Notes and musings on my experience at Confab Central"
 	bio = "I am a content strategist, editor, creative and technical writer, and frontend developer."
 	# Enter optionally your twitter account
 	twitter_name = "ryandwatters"
