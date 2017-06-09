@@ -270,7 +270,7 @@ Questions to ask for data dictionaries:
 **Conf:** Think of content model in relation to content model?
 **JE:** I see the CMS and content model at opposite ends of the spectrum. CMS-specific details come in later on when you have to decide the middle ground between the platonic form of the content model and the abilities of the technology you're going to use. [Story about *This Old House* and the shift to an all-gallery website and how that is *not* the content model but rather how a particular *CMS* houses the content.]
 
-## My Favorite Quotes of the Day
+## Favorite Quotes of the Day
 
 > Collaboration uses everyone's work to make a better model.
 

@@ -94,7 +94,7 @@ The following is taken from <https://isitchristmas.com>:
 
 ![screenshot of isitchristmas.com](/images/is-it-christmas.png)
 
-### Taking on Longer Projects
+### Taking on Larger Projects
 
 > It's very hard to do things right when you are designing by committee.
 
@@ -122,13 +122,15 @@ Do your content inventory before you do your content audit. With the FEC site, t
 
 When you have long content, look at patterns and components.
 
-What is your content is innately laden with low-frequency lexicon?
+What if your content is innately laden with low-frequency lexicon?
 
 * With FEC, Emileigh and other content strategists created a glossary of terms.
 
 ### Things You Can Have Today
 
 * [18F Glossary Tool from 18F](https://github.com/18f/glossary)
+* [18F Content Guide](https://content-guide.18f.gov/)
+* [18F UI Style Guide](https://18f.gsa.gov/styleguide/)
 
 ## Keywords and Context: How SEO can Make Content More Human
 
@@ -154,6 +156,30 @@ What is your content is innately laden with low-frequency lexicon?
 * Former UX writer in LinkedIn
 * Currently the *only* content strategist at Webflow
     * Core responsibility is to maintain the Webflow's blog
+
+It's great to create a voice, tone, and style website to continually update stakeholders and colleagues. [Shopify's Polaris](https://polaris.shopify.com/) is an excellent example of a website that demonstrates the company's design system.
+
+* Promotes consistent voice
+* Promotes brand principals
+    * Content principals should stem from brand principals
+* If you are using a CMS, try to keep your information about different fields inline.
+* Google Docs patterned after a CMS work well, especially if you have external users outside of the organization.
+
+
+### Taking a Content-first Approach
+
+At LinkedIn, everyone was taught to "act like an owner"; this works well at startups, but it's easy for a designer to be worried that a content strategist is taking over some of the designer's roles and responsibilities. Instead, focus on *collaboration* from the get-go with a project and identify colleagues you'll be working with while developing your product.
+
+### Creating a Blog
+
+* Gone are the days of creating blog posts of 500 or fewer words
+* "Domain authority" is best guaranteed by creating really good quality content that will provide value for your readers well beyond the publish date.
+
+### Tools You Can Use
+
+* <https://startupcs.webflow.io>
+* <https://webflow.com/website/voice-tone-style>
+* <https://voiceandtoneguides.webflow.io>
 
 ## Favorite Quotes of the Day
 

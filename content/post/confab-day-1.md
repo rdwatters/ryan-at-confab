@@ -137,13 +137,15 @@ How do we balance rigidity of content model with creative flow of a creative tea
 
 Often, teams are exhausted by the time branding and visual design conversations are nearing completion.
 
-> Everyone wants to think they are a beautiful and unique snowflake, but we don't work in an industry of beautiful and unique snowflakes; we work in an industry of standards. We focus too much on what *can* be done rather than what *should* be done. - Corey Vilhauer
-
 We no longer create content in the sense of a page. Instead, we are moving to a more component-based model. As a content chunk, components can be used once or multiple times across a site.
 
 There is a move from pages to components (e.g., Squarespace). High-frequency content does better with templates; low-frequency templates work better with a more modular approach.
 
-> Just as we make assumptions that other people have the same level of language understanding, developers assume that everyone has their same level of technical understanding. *NEVER LET YOUR DEVELOPERS CREATE CMS DOCUMENTATION FOR CMS USERS.*
+## Favorite Quotes of the Day
+
+> Everyone wants to think they are a beautiful and unique snowflake, but we don't work in an industry of beautiful and unique snowflakes; we work in an industry of standards. We focus too much on what *can* be done rather than what *should* be done. - Corey Vilhauer
+
+> Just as we make assumptions that other people have the same level of language understanding, developers assume that everyone has their same level of technical understanding. *NEVER LET YOUR DEVELOPERS CREATE CMS DOCUMENTATION FOR CMS USERS.* - Corey Vilhauer
 
 
 

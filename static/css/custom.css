@@ -11,6 +11,19 @@ h6 {
     font-family: 'Avenir Next', 'Avenir', 'Montserrat', 'Helvetica Neue', helvetica, arial, sans-serif;
 }
 
+h1.blog-title.heading:before {
+    content:'';
+    display:inline-block;
+    margin-right:.15em;
+    width:1.3em;
+    height:1.3em;
+    background-image: url(/images/confab.svg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    position:relative;
+    top:.3em;
+}
+
 .post-content h2 {
     font-size: 1.9em;
     margin-top: .75em;
@@ -42,9 +55,36 @@ nav#TableOfContents > ul > li {
 }
 
 article.post img {
-    display:block;
-    width:100%;
-    max-width:800px;
-    margin-left:auto;
-    margin-right:auto;
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article.post a:hover {
+    color: #F44336;
+}
+
+a[target="_blank"]:after {
+    content: '\f08e';
+    font-family: 'FontAwesome';
+    font-size: .9em;
+    margin-left: .25em;
+}
+
+a[href*="confabevents"]::before {
+    content: '';
+    display: inline-block;
+    background-image: url('/images/confab.svg');
+    width: 1.3em;
+    height: 1.3em;
+    position: relative;
+    top: .25em;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a[href*="confabevents"]::after {
+    content: '';
 }
