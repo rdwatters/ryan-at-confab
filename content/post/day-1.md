@@ -4,7 +4,7 @@ subtitle:
 date: 2017-06-08
 tags: [structure, content design, content management]
 attendees: []
-description: The official Confab Central Conference starts with an opening keynote from Ann Handley, Chief Content Officer, MarketingProfs on the importance of challenging assumptions when approaching content. Topics of breakout sessions include structured content, content design, and realistic content management methodologies
+description: The official Confab Central Conference starts with an opening keynote from Ann Handley, Chief Content Officer, MarketingProfs on the importance of challenging assumptions when approaching content. Topics of breakout sessions include structured content, content design, and realistic content management methodologies.
 ---
 
 ## Challenge Your Content Assumptions and Get a Free Puppy (Opening Keynote)

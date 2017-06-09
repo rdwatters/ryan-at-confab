@@ -4,7 +4,7 @@ subtitle:
 date: 2017-06-09
 tags: [levar,seo,scaling content]
 attendees: []
-description: Day 2 of Confab is kicked off with a riveting keynote from Levar Burton on fight against illiteracy, the power of education, and why everyone should be reading. Breakout sessions on coaching success, large-scale content projects, human-centered SEO, and content strategy for startups and small businesses.
+description: Day 2 of Confab started with a riveting keynote from Levar Burton on fight against illiteracy, the power of education, and why everyone should be reading. Breakout session topics included coaching success, large-scale content projects, human-centered SEO, and content strategy for startups and small businesses.
 ---
 
 ## Storytelling in the Modern Age (Keynote)
@@ -142,6 +142,8 @@ What if your content is innately laden with low-frequency lexicon?
     * Look to Google trends
     * Interview users
 * Content needs to speak directly to your users.
+
+> Try to learn something about everything and everything about something. - Thomas Huxley
 
 ### Further Reading
 
