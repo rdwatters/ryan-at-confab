@@ -1,10 +1,10 @@
 ---
-title: Day 1
+title: Conference Day 1
 subtitle:
 date: 2017-06-08
-tags: [confab,content, content strategy, conference]
+tags: [structure, content design, content management]
 attendees: []
-description: Notes from multiple breakout sessions and the opening keynote event during day 1 of Confab 2017.
+description: The official Confab Central Conference starts with an opening keynote from Ann Handley, Chief Content Officer, MarketingProfs on the importance of challenging assumptions when approaching content. Topics of breakout sessions include structured content, content design, and realistic content management methodologies
 ---
 
 ## Challenge Your Content Assumptions and Get a Free Puppy (Opening Keynote)
@@ -93,7 +93,7 @@ How to label and group content so that users can find it. There are tools you ca
 
 ### Key Concept: Content Wireframes
 
-Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/confab-workshop-eaton/#bonus-annotated-wireframes)):
+Content wireframes (compare to Jeff Eaton's [annotated wireframes](/post/workshop/#bonus-annotated-wireframes)):
 
 * Inform the eventual visual design
 * Prioritizes content, shows objectives,

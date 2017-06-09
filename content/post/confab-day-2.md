@@ -1,15 +1,17 @@
 ---
-title: Day 2
+title: Conference Day 2
 subtitle:
 date: 2017-06-09
-tags: [levar burton,seo,scaling content]
+tags: [levar,seo,scaling content]
 attendees: []
-description: Notes from multiple breakout sessions and the keynote event during day 2 of Confab 2017.
+description: Day 2 of Confab is kicked off with a riveting keynote from Levar Burton on fight against illiteracy, the power of education, and why everyone should be reading. Breakout sessions on coaching success, large-scale content projects, human-centered SEO, and content strategy for startups and small businesses.
 ---
 
 ## Storytelling in the Modern Age (Keynote)
 
 [**Levar Burton, Award-winning actor, writer, producer, & literacy advocate**](http://confabevents.com/events/central-2017/levar-burton)
+
+> I believe that all media is educational. The question is: "What are we teaching?" - Levar Burton
 
 ![Gif of Levar Burton from the late 80s](/images/levar-burton.gif)
 
@@ -127,6 +129,41 @@ What is your content is innately laden with low-frequency lexicon?
 ### Things You Can Have Today
 
 * [18F Glossary Tool from 18F](https://github.com/18f/glossary)
+
+## Keywords and Context: How SEO can Make Content More Human
+
+[**Jess Hutton, Content Strategy, UX, Knowledge Management Specialist, Clearlink**](http://confabevents.com/events/central-2017/jess-hutton)
+
+* Research your users
+    * Use language that your users are most familiar with when discussing your brand
+    * Look to your search terms
+    * Look to Google trends
+    * Interview users
+* Content needs to speak directly to your users.
+
+### Further Reading
+
+* [Why I am a Content Strategist (Medium)](https://medium.com/@jesslhutton/why-i-am-a-content-strategist-8e28a5d61751)
+
+## Content Strategy at Startups and Smaller Businesses
+
+[**John Moore Williams, Head of Content Strategy, Webflow**](http://confabevents.com/events/central-2017/john-moore-williams)
+
+### Brief Info on John
+
+* Former UX writer in LinkedIn
+* Currently the *only* content strategist at Webflow
+    * Core responsibility is to maintain the Webflow's blog
+
+## Favorite Quotes of the Day
+
+> I believe that all media is educational. The question is: "What are we teaching?" - Levar Burton
+
+> I've made Slack and Zapier into my personal project manager...and set up keywords so that I'm only notified of specific words use in channel conversations. At this point, email has become oddly sparse. - John Moore
+
+> Any time sometime tells you that it's your role to write copy after the site is up and running rather than being involved at the ground floor, remind them of the importance of your role as a content strategist. *Butt in on everything.* - John Moore
+
+> Learn to love GitHub...or whatever system your developers are using so that you can keep up with interface and UI choices. You don't need to learn to code, but it can be *super helpful*. It's not tremendously difficult to get up and running with GitHub. - John Moore
 
 
 
