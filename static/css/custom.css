@@ -38,6 +38,10 @@ h1.blog-title.heading:before {
     font-size: 1.2em;
 }
 
+.li.post .post-header h3.post-title a {
+    text-decoration:none;
+}
+
 nav#TableOfContents > ul {
     padding-left: 0px;
     margin-left: 0px;
@@ -68,6 +72,9 @@ article.post a{
 
 article.post a:hover {
     color: #F44336;
+    text-decoration:none;
+    border-bottom:none;
+    text-decoration:underline;
 }
 
 a[target="_blank"]:after {
