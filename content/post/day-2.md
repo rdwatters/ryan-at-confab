@@ -17,10 +17,11 @@ description: Day 2 of Confab started with a riveting keynote from Levar Burton o
 
 ### Key Takeaways
 
-Not a whole lot to say here other than the following:
+Again, standing room only...and boy did this fill up quick. Not a whole lot to say here other than the following:
 
 * Levar Burton is really inspiring
 * I kind of want to be Levar Burton
+* To say that half the audience was crying in the first 10 minutes would be a conservative estimate
 * Kids need to read more
 * Mothers need to read to their children
 * Adults need to read more
