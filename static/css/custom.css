@@ -139,12 +139,15 @@ a[href*="confabevents"]::after {
 .share > span > a[class^="icon"] {
     color: #333333;
     text-decoration: none;
+    border-bottom-width:0px;
 }
 
 .share > span > a[class^="icon"]:hover {
     color: #F44336;
     text-decoration: none;
+    border-bottom-width:0px;
 }
+
 
 .post-footer a.tag-in-list {
     text-decoration: none!important;
