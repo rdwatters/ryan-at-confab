@@ -281,14 +281,14 @@ Questions to ask for data dictionaries:
 
 ## Favorite Quotes of the Day
 
-> Collaboration uses everyone's work to make a better model.
+> Collaboration uses everyone's work to make a better model. &mdash; Jeff Eaton
 
 
-> Sometimes the distinction between "content type" and "taxonomy" are arbitrary.
+> Sometimes the distinction between "content type" and "taxonomy" are arbitrary. &mdash; Jeff Eaton
 
 
-> Work in nonprofits has shown me there is this weird tension between the people that are actually interested in coming to the site and the donors or financial interests behind the site.
+> Work in nonprofits has shown me there is this weird tension between the people that are actually interested in coming to the site and the donors or financial interests behind the site. &mdash; Jeff Eaton
 
 
-> What we see in nonprofits and NGOs is that they really, really, really desperately want to organize their website according to their sponsors or the way the organization is structured internally.
+> What we see in nonprofits and NGOs is that they really, really, really desperately want to organize their website according to their sponsors or the way the organization is structured internally. &mdash; Jeff Eaton
 

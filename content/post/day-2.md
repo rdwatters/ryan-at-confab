@@ -188,13 +188,13 @@ At LinkedIn, everyone was taught to "act like an owner"; this works well at star
 
 ## Favorite Quotes of the Day
 
-> I believe that all media is educational. The question is: "What are we teaching?" - Levar Burton
+> I believe that all media is educational. The question is: "What are we teaching?" &mdash; Levar Burton
 
-> I've made Slack and Zapier into my personal project manager...and set up keywords so that I'm only notified of specific words use in channel conversations. At this point, email has become oddly sparse. - John Moore
+> I've made Slack and Zapier into my personal project manager...and set up keywords so that I'm only notified of specific words use in channel conversations. At this point, email has become oddly sparse. &mdash; John Moore
 
-> Any time sometime tells you that it's your role to write copy after the site is up and running rather than being involved at the ground floor, remind them of the importance of your role as a content strategist. *Butt in on everything.* - John Moore
+> Any time sometime tells you that it's your role to write copy after the site is up and running rather than being involved at the ground floor, remind them of the importance of your role as a content strategist. *Butt in on everything.* &mdash; John Moore
 
-> Learn to love GitHub...or whatever system your developers are using so that you can keep up with interface and UI choices. You don't need to learn to code, but it can be *super helpful*. It's not tremendously difficult to get up and running with GitHub. - John Moore
+> Learn to love GitHub...or whatever system your developers are using so that you can keep up with interface and UI choices. You don't need to learn to code, but it can be *super helpful*. It's not tremendously difficult to get up and running with GitHub. &mdash; John Moore
 
 
 

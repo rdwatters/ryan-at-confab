@@ -157,9 +157,11 @@ There is a move from pages to components (e.g., Squarespace). High-frequency con
 
 ## Favorite Quotes of the Day
 
-> Everyone wants to think they are a beautiful and unique snowflake, but we don't work in an industry of beautiful and unique snowflakes; we work in an industry of standards. We focus too much on what *can* be done rather than what *should* be done. - Corey Vilhauer
+> Taxonomy is the *only* way to auto-magically get content together and to define relationships between content. &mdash; Meghan Casey
 
-> Just as we make assumptions that other people have the same level of language understanding, developers assume that everyone has their same level of technical understanding. *NEVER LET YOUR DEVELOPERS CREATE CMS DOCUMENTATION FOR CMS USERS.* - Corey Vilhauer
+> Everyone wants to think they are a beautiful and unique snowflake, but we don't work in an industry of beautiful and unique snowflakes; we work in an industry of standards. We focus too much on what *can* be done rather than what *should* be done. &mdash; Corey Vilhauer
+
+> Just as we make assumptions that other people have the same level of language understanding, developers assume that everyone has their same level of technical understanding. *NEVER LET YOUR DEVELOPERS CREATE CMS DOCUMENTATION FOR CMS USERS.* &mdash; Corey Vilhauer
 
 
 
