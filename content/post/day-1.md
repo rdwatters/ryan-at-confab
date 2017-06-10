@@ -134,7 +134,7 @@ We all want to practice COPE approaches to content, and we all have ideas of how
 ### Content Management Systems
 
 * Content management systems are rigid by nature
-* People who develop content models can't come up with an understanding of what a content model is
+* People who develop content models can't come up with a common, unified understanding of what a content model *is*
 * What we need is "ubiquitous language," from Domain Driven Design
     * Domain experts need things to be clear
     * Developers need things to be accurate
