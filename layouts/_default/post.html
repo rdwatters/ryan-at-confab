@@ -47,8 +47,9 @@
 
             {{ with .Params.tags }}
             	<span class="f-post-tags"><i class="fa fa-tag"></i>
-                {{ range . }}
-                <a href="/tags/{{.|urlize}}">{{.}}</a>
+                {{$tagl := sub (len .) 1}}
+                {{ range $ind, $val := . }}
+                <a href="/tags/{{$val | urlize}}">{{$val}}{{if lt $ind $tagl}} | {{end}}</a>
             	{{ end }}
             	</span>
             {{ end }}

@@ -37,20 +37,24 @@ Not...
 
 But instead...
 
-> Which angle are we looking at?
-
-> The purpose of content modeling is **shared understanding* and clear, **consistent answers** to content questions from **all teams**.
+> Which angle are we looking at? The purpose of content modeling is **shared understanding** and clear, **consistent answers** to content questions from **all teams**.
 
 ### Questions to Ask for Content Modeling
 
-**1.** What distinct kinds of content do we create and manage, what are their unique purposes, and how do they **relate** to each other?
-**2.** What **individual properties** make up each piece of content? What **rules* govern them, and **where do they come from**?
-**3.** How is the content **organized** behind the scenes, and to our customers? Even something as simple as "tags" are a deep part of the content's purpose and relationships, both internally for those who consume it.
-**4.** What **processes** does the content go through as it's developed, published, promoted, and maintained?
-**5.** What **people** and **roles** are responsible for the content throughout its **lifecycle**?
-**6.** What **goals** are we trying to accomplish with the content, and what things are **measuring** to track our **progress**? As in, "Why do we actually make this stuff?" For example, measuring your bounce rate is likely a waste of time unless you're a purely ad-revenue-drive startup.
+1. What distinct kinds of content do we create and manage, what are their unique purposes, and how do they **relate** to each other?
+2. What **individual properties** make up each piece of content? What **rules* govern them, and **where do they come from**?
+3. How is the content **organized** behind the scenes, and to our customers? Even something as simple as "tags" are a deep part of the content's purpose and relationships, both internally for those who consume it.
+4. What **processes** does the content go through as it's developed, published, promoted, and maintained?
+5. What **people** and **roles** are responsible for the content throughout its **lifecycle**?
+6. What **goals** are we trying to accomplish with the content, and what things are **measuring** to track our **progress**? As in, "Why do we actually make this stuff?" For example, measuring your bounce rate is likely a waste of time unless you're a purely ad-revenue-drive startup.
 
-## Group Exercise: Welcome to Picnictown, Collaborative Content Modeling: The Game
+## Group Exercise: Welcome to Picnictown
+
+"Collaborative Content Modeling: The Game"
+
+![Photo of a card for the Content Modeling game developed by Jeff Eatona dn Lullabot for this workshop exercise](/images/content-modeling-game.jpg)
+
+### Introduction to NAAP
 
 * North American Association of Picnickers
 * Promotes "outdoor eating with family and friends"
@@ -70,12 +74,15 @@ Keep an eye out for the following...
 
 ### My Role
 
+![Photo of a CMS Developer card for the content modeling card game from Lullabot](/images/cms-developer.jpg)
+
 * "CMS Developer"
     * You've been told about a "redesign," so it's your job to make sure the CMS actually does the cool things everyone is talking about...
+    * **Note:** I was originally given the "Customer Service Rep" card, but I convinced a woman at my table to switch cards with me; she was more than happy to do so :smile:
 
 ### Company Info and Demographics
 
-* 35 and up
+* 35 yo and up
     * Lots of free time, family oriented
     * Current thinking is that "Millenials are destroying picnics"; they keep having picnics on their own without visiting the NAAP website
 * Strong representation of 24-36, but only at tailgating
@@ -122,7 +129,7 @@ Keep an eye out for the following...
     * Organizational Info
 * Advertisements
 
-**Conf:** How do we feel about picnics that accompany live events?
+**Conf:** How do we feel about picnics that accompany live events?  
 **JE:** We love them; we cross-promote as much as possible.
 
 ### Entity Relationship Diagrams
@@ -149,7 +156,7 @@ Lines and circles in lines called "Crow's foot notation" for the modeling. See [
 * Will it be translated into other languages?
 * Does it make sense to all team members?
 
-**Conf:** Does accessibility come into play at this point in the project?
+**Conf:** Does accessibility come into play at this point in the project?  
 **JE:** Comes in more during the design stage, especially when it comes to media.
 
 ### Persona
@@ -164,7 +171,7 @@ Lines and circles in lines called "Crow's foot notation" for the modeling. See [
 
 ### Persona Exercise
 
-Group feedback:
+The following are the 8 persona developed by the entire workshop:
 
 1. Pauline the Parent
 2. Dawn the DINK (dual income, no kids)
@@ -211,7 +218,7 @@ Do different personas...
 
 ## Bonus: Dual-Axis Sorting!
 
-* Based on "delphi sorting method"
+* Based on [delphi sorting method](https://en.wikipedia.org/wiki/Delphi_method)
 * Two conflicting values
 * A lot of items
 * A pile of post-its
@@ -253,6 +260,8 @@ Questions to ask for data dictionaries:
 
 ## User Journeys and User Journey Maps
 
+![Photo of a slide from Jeff Eaton describing User Journey Maps.](/images/user-journey-maps.jpg)
+
 * One persona
 * Their interactions with a product over time
 * The content/messages they encounter
@@ -267,7 +276,7 @@ Questions to ask for data dictionaries:
 
 ## Q&A
 
-**Conf:** Think of content model in relation to content model?
+**Conf:** Think of content model in relation to content model?  
 **JE:** I see the CMS and content model at opposite ends of the spectrum. CMS-specific details come in later on when you have to decide the middle ground between the platonic form of the content model and the abilities of the technology you're going to use. [Story about *This Old House* and the shift to an all-gallery website and how that is *not* the content model but rather how a particular *CMS* houses the content.]
 
 ## Favorite Quotes of the Day

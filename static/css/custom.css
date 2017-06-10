@@ -12,16 +12,16 @@ h6 {
 }
 
 h1.blog-title.heading:before {
-    content:'';
-    display:inline-block;
-    margin-right:.02em;
-    width:1.3em;
-    height:1.3em;
+    content: '';
+    display: inline-block;
+    margin-right: .02em;
+    width: 1.3em;
+    height: 1.3em;
     background-image: url(/images/confab.svg);
-    background-size:cover;
-    background-repeat:no-repeat;
-    position:relative;
-    top:.3em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    top: .3em;
 }
 
 .post-content h2 {
@@ -39,7 +39,7 @@ h1.blog-title.heading:before {
 }
 
 .li.post .post-header h3.post-title a {
-    text-decoration:none;
+    text-decoration: none;
 }
 
 nav#TableOfContents > ul {
@@ -66,23 +66,28 @@ article.post img {
     margin-right: auto;
 }
 
-article.post a{
-    text-decoration:underline;
+article.post a {
+    text-decoration: none;
+    font-weight: bolder;
+    border-bottom:1px solid #F44336;
+    /*color: #F44336;*/
 }
 
 article.post a:hover {
     color: #F44336;
-    text-decoration:none;
-    border-bottom:none;
-    text-decoration:underline;
+    /*text-decoration: underline;*/
+    text-decoration: none;
+    border-bottom: none;
+    /*text-decoration: underline;*/
+    border:none;
 }
 
 article.post a[target="_blank"]:after {
     content: '\f08e';
     font-family: 'FontAwesome';
     font-size: .9em;
-    margin-left: 0px;
-    text-decoration:none;
+    margin-left: .2em;
+    text-decoration: none;
 }
 
 a[href*="confabevents"]::before {
@@ -101,14 +106,21 @@ a[href*="confabevents"]::after {
     content: '';
 }
 
-#site-footer a[target="_blank"]:after{
-    content:'';
-    font-family:inherit;
+#site-footer a[target="_blank"]:after {
+    content: '';
+    font-family: inherit;
 }
 
 .share > span > a[class^="icon"] {
-    text-decoration:none;
+    color: #333333;
+    text-decoration: none;
 }
+
+.share > span > a[class^="icon"]:hover {
+    color: #F44336;
+    text-decoration: none;
+}
+
 .post-footer a.tag-in-list {
-    text-decoration:none!important;
+    text-decoration: none!important;
 }

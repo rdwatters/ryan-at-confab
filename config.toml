@@ -2,6 +2,7 @@
 baseurl = "/"
 # HTML Language Code Reference, such as en, zh-cn
 copyright = "Ryan Watters, ELS"
+enableEmoji = true
 languageCode = "en"
 title = "Confab 2017"
 theme = "hugo-theme-blueberry-detox"
