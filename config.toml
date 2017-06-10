@@ -77,7 +77,7 @@ hasCJKLanguage = false
   hrefTargetBlank = true
 
 [taxonomies]
-	tags = "tag"
+	tag = "tags"
 
 
 # Add additional social link entries underneath

@@ -14,8 +14,11 @@
             <a href="{{ .Permalink }}#comments"><i class="fa fa-comment"></i> Comments</a>
             {{ end }}
             {{ with.Params.tags }}
+                {{$tagl := len .}}
             	&nbsp;&nbsp;<i class="fa fa-tag"></i>
-            	{{ delimit  . ", " }}
+            	{{ range $ind, $val := . }}
+                <a href="/tags/{{$val | urlize}}" class="tag-in-list">{{$val}}{{ if lt $ind (sub $tagl 1)}} | {{end}}</a>
+                {{ end }}
             {{ end }}
         </span>
     </footer>

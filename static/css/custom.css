@@ -105,3 +105,10 @@ a[href*="confabevents"]::after {
     content:'';
     font-family:inherit;
 }
+
+.share > span > a[class^="icon"] {
+    text-decoration:none;
+}
+.post-footer a.tag-in-list {
+    text-decoration:none!important;
+}

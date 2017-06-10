@@ -47,7 +47,9 @@
 
             {{ with .Params.tags }}
             	<span class="f-post-tags"><i class="fa fa-tag"></i>
-            	{{ delimit  . ", " }}
+                {{ range . }}
+                <a href="/tags/{{.|urlize}}">{{.}}</a>
+            	{{ end }}
             	</span>
             {{ end }}
         </section>

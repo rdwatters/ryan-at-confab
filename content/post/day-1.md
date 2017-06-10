@@ -11,6 +11,8 @@ description: The official Confab Central Conference starts with an opening keyno
 
 [**Ann Handley, Chief Content Officer, MarketingProfs**](http://confabevents.com/events/central-2017/ann-handley)
 
+This was the opening keynote for day 1 of the conference. Standing room only in the back and therefore didn't write a lot of notes; however, Ann's slides will be sent out to all attendees within the next 2 weeks.
+
 ## Structured Content Across the Redesign Process (Breakout)
 
 [**Lisa Maria Martin, Independent IA/CS Consultant**](http://confabevents.com/events/central-2017/lisa-maria-martin)
@@ -135,7 +137,7 @@ We all want to practice COPE approaches to content, and we all have ideas of how
 
 * Content management systems are rigid by nature
 * People who develop content models can't come up with a common, unified understanding of what a content model *is*
-* What we need is "ubiquitous language," from Domain Driven Design
+* What we need is a "ubiquitous language," from Domain Driven Design
     * Domain experts need things to be clear
     * Developers need things to be accurate
 
@@ -151,6 +153,7 @@ There is a move from pages to components (e.g., Squarespace). High-frequency con
 
 * [Your CMS as Bad Cop, Gadgetopia](https://gadgetopia.com/post/7139)
 * [Why Content Projects Fail, Gadgetopia](https://gadgetopia.com/why-content-projects-fail)
+* [Domain Driven Design (Note: reference edition, not full text, which is largely for software developers)](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198/ref=sr_1_1?ie=UTF8&qid=1497117836&sr=8-1&keywords=Domain%E2%80%91Driven+Design+Reference%3A)
 
 ## Favorite Quotes of the Day
 
