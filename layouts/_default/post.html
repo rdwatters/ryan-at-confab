@@ -49,7 +49,7 @@
             	<span class="f-post-tags"><i class="fa fa-tag"></i>
                 {{$tagl := sub (len .) 1}}
                 {{ range $ind, $val := . }}
-                <a href="/tags/{{$val | urlize}}">{{$val}}{{if lt $ind $tagl}} | {{end}}</a>
+                <a href="/tags/{{$val | urlize}}" class="post-footer-tag">{{$val}}{{if lt $ind $tagl}} | {{end}}</a>
             	{{ end }}
             	</span>
             {{ end }}

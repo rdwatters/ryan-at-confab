@@ -40,6 +40,11 @@ h1.blog-title.heading:before {
 
 .li.post .post-header h3.post-title a {
     text-decoration: none;
+    border-bottom-width:0px;
+}
+
+header.post-header > h3.post-title a{
+    font-weight:700;
 }
 
 nav#TableOfContents > ul {
@@ -58,6 +63,12 @@ nav#TableOfContents > ul > li {
     padding-left: 0px;
 }
 
+nav#TableOfContents > ul > li a {
+    font-weight:normal;
+    border:none;
+}
+
+
 article.post img {
     display: block;
     width: 100%;
@@ -68,7 +79,7 @@ article.post img {
 
 article.post a {
     text-decoration: none;
-    font-weight: bolder;
+    font-weight: normal;
     border-bottom:1px solid #F44336;
     /*color: #F44336;*/
 }
@@ -79,7 +90,7 @@ article.post a:hover {
     text-decoration: none;
     border-bottom: none;
     /*text-decoration: underline;*/
-    border:none;
+    border-bottom:1px solid #F44336;
 }
 
 article.post a[target="_blank"]:after {
@@ -100,6 +111,10 @@ a[href*="confabevents"]::before {
     top: .25em;
     background-size: cover;
     background-repeat: no-repeat;
+    border:none;
+}
+a[href*="confabevents"] {
+    border-bottom-width:0px!important;
 }
 
 a[href*="confabevents"]::after {
@@ -123,4 +138,11 @@ a[href*="confabevents"]::after {
 
 .post-footer a.tag-in-list {
     text-decoration: none!important;
+    border-bottom-width:0px;
 }
+
+.f-post-tags a.post-footer-tag {
+    border-bottom-width:0px;
+}
+
+
