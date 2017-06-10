@@ -11,6 +11,16 @@ h6 {
     font-family: 'Avenir Next', 'Avenir', 'Montserrat', 'Helvetica Neue', helvetica, arial, sans-serif;
 }
 
+a h1.blog-title.header {
+    transition: color .3s ease-in-out;
+}
+
+a h1.blog-title.heading:hover {
+    transition: color .3s ease-in-out;
+    color:#F44336;
+}
+
+
 h1.blog-title.heading:before {
     content: '';
     display: inline-block;
@@ -114,7 +124,7 @@ a[href*="confabevents"]::before {
     border:none;
 }
 a[href*="confabevents"] {
-    border-bottom-width:0px!important;
+    border-bottom-width:0px;
 }
 
 a[href*="confabevents"]::after {
