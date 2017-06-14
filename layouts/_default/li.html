@@ -17,7 +17,7 @@
                 {{$tagl := len .}}
             	&nbsp;&nbsp;<i class="fa fa-tag"></i>
             	{{ range $ind, $val := . }}
-                <a href="/tags/{{$val | urlize}}" class="tag-in-list">{{$val}}{{ if lt $ind (sub $tagl 1)}} | {{end}}</a>
+                <a href="/tags/{{$val | urlize}}" class="tag-in-list">{{$val}}</a>{{ if lt $ind (sub $tagl 1)}} | {{end}}
                 {{ end }}
             {{ end }}
         </span>
